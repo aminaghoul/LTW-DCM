@@ -1,6 +1,6 @@
 # WayDCM
 
-[Page](https://github.com/aminaghoul/WayDCM) [Slides](docs/poster_IV.pdf)
+[Page](https://github.com/aminaghoul/WayDCM) [Slides](ITSC23_presentation.pdf)
 
 If you find this work interesting please ⭐️star and share this repo. 
 
